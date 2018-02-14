@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Models\Identity\" />
     <Folder Include="Models\Interfaces\" />
     <Folder Include="Models\Entities\" />
